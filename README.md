@@ -1,6 +1,6 @@
 # Hi, I'm Fathima 👋
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science Graduate
 
 💻 Python Developer | AI Enthusiast | Web Developer
 
