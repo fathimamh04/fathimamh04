@@ -53,6 +53,12 @@ AI-powered driver monitoring system using YOLOv8 and Computer Vision.
 ### 🌿 Plant Doc Bot
 AI-powered plant disease detection assistant.
 
+### 🤖 Lumi Chat
+AI-powered conversational chatbot with LLM integration and modern UI.
+
+### 🌦️ Weather App
+Real-time weather application with UI and weather data integration.
+
 ### 💰 Expense Tracker
 Web application for managing daily expenses.
 
